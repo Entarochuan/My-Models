@@ -14,6 +14,8 @@ Reference : 《Dive Into Deep Learning》
 | Softmax_Regression.py | 实现Softmax回归，使用交叉熵损失函数            |
 | Main.py               | 实现模型初始化及训练，整合以上模块             |
 
+代码实现部分使用了`d2l`库函数。
+
 
 
 ### 模型表现
@@ -32,5 +34,4 @@ def cross_entropy(y_hat, y):
 ```
 
 这里y为一个向量，记录的是当前行内正确标签的位置(0-9)。
-
 
