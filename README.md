@@ -3,6 +3,7 @@
 Deep learning models implemented by myself.
 
 
+![](https://img.shields.io/badge/D2L-%E4%BB%A3%E7%A0%81%E5%8F%82%E8%80%83-brightgreen)
 
 ### Reference：《Dive Into Deep Learning》
 
@@ -19,4 +20,3 @@ Deep learning models implemented by myself.
 !pip install matplotlib==3.0.0
 #需要以上的两个包完成绘图和环境导入。
 ```
-
