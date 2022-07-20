@@ -12,7 +12,7 @@ Deep learning models implemented by myself.
 
 部分实验结果使用Google Colab运行得到。可以在D2L各章节处直接打开Colab运行。
 
-也可以将`.ipynb`文件上传后，按照下方代码安装所需包后运行。
+也可以将原书提供的`.ipynb`文件上传后，按照下方代码安装所需包后运行。
 
 ```python
 !pip install d2l
