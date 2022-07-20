@@ -3,7 +3,10 @@
 Deep learning models implemented by myself.
 
 
-![](https://img.shields.io/badge/D2L-%E4%BB%A3%E7%A0%81%E5%8F%82%E8%80%83-brightgreen)
+ <p align="center">
+    <a href="https://zh.d2l.ai/">
+      <img alt="Tests Passing" src="https://img.shields.io/badge/D2L-%E4%BB%A3%E7%A0%81%E5%8F%82%E8%80%83-brightgreen" />
+    </a>
 
 ### Reference：《Dive Into Deep Learning》
 
