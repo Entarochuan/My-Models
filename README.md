@@ -23,6 +23,10 @@ Reference：《Dive Into Deep Learning》
 
 也可以将实现的的`.py`文件修改为`.ipynb`文件格式，上传至Colab并按照下方代码安装所需包后运行。
 
+如需上传到Colab，请将My_functions中实现的训练函数替代为d2l包中提供的训练函数。
+
+在RNN及以后实现部分中提供了Colab可直接训练的`.ipynb`文件。
+
 ```python
 !pip install d2l
 !pip install matplotlib==3.0.0
