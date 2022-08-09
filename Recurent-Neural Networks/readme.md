@@ -6,7 +6,7 @@
 下面是各模型的运行结果。
 
 ### RNN训练结果(在Colab上运行得到):
-[![RNN.png](https://i.postimg.cc/c4sVczGg/RNN.png)](https://postimg.cc/CdQPhm1S)
+![](https://github.com/Entarochuan/My-Models/blob/main/Recurent-Neural%20Networks/RNN.png)
 
 ### Sequence模型:
 
