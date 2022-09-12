@@ -14,7 +14,7 @@ Reference：《Dive Into Deep Learning》
 
 
 ## Introduction
-按照[Dive into deep Learning](https://zh.d2l.ai)给出的代码，提供了`.py`版本的实现，在一些重要的位置提供了注释。
+按照[Dive into deep Learning](https://zh.d2l.ai)给出的代码，提供了自己的实现，在一些重要的位置提供了注释。
 
 ## Install&Run
 如需在本地运行代码，请先按照D2L书给出的环境配置安装所需的包。操作过程中可以将下载源替换为清华源或其它。
