@@ -2,7 +2,7 @@
 My Models
 </h1>
 <p align="center">
-Deep learning models complemented by my self 
+Self implemented Deep learning models :)
 <p align="center">
 Reference：《Dive Into Deep Learning》
  <p align="center">
